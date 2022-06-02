@@ -5,7 +5,7 @@ from random import random
 import random
 # Acima, eu importei um número aleatorio, e vou puxar a variável abaixo!
 print(''''
-        **********************************
+        ***********************************
         Olá, bem-vindo ao jogo de adivinhação!!!
         **********************************''')
 
